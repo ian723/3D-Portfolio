@@ -8,7 +8,7 @@ import {
   html,
   css,
   vue,
-  redux,
+  Angular,
   tailwind,
   nodejs,
   mongodb,
@@ -22,7 +22,7 @@ import {
   carrent,
   jobit,
   tripguide,
-  threejs,
+  nest,
 } from "../assets";
 
 export const navLinks = [
@@ -81,8 +81,8 @@ const technologies = [
     icon: vue,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
+    name: "Angular JS",
+    icon: Angular,
   },
   {
     name: "Tailwind CSS",
@@ -97,8 +97,8 @@ const technologies = [
     icon: mongodb,
   },
   {
-    name: "Three JS",
-    icon: threejs,
+    name: "Nest JS",
+    icon: nest,
   },
   {
     name: "git",

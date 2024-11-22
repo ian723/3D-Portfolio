@@ -16,10 +16,10 @@ import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import vue from "./tech/vue.png";
-import redux from "./tech/redux.png";
+import Angular from "./tech/Angular.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
-import threejs from "./tech/threejs.svg";
+import nest from "./tech/nest.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -48,10 +48,10 @@ export {
   mongodb,
   nodejs,
   vue,
-  redux,
+  Angular,
   tailwind,
   typescript,
-  threejs,
+  nest,
   meta,
   shopify,
   starbucks,
