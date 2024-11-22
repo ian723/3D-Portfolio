@@ -7,7 +7,7 @@ import {
   typescript,
   html,
   css,
-  reactjs,
+  vue,
   redux,
   tailwind,
   nodejs,
@@ -77,8 +77,8 @@ const technologies = [
     icon: typescript,
   },
   {
-    name: "React JS",
-    icon: reactjs,
+    name: "Vue JS",
+    icon: vue,
   },
   {
     name: "Redux Toolkit",
