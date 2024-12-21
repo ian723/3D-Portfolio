@@ -1,3 +1,0 @@
-<IfModule mod_headers.c>
-    Header set Permissions-Policy "interest-cohort=(), attribution-reporting=(), run-ad-auction=(), private-state-token-redemption=(), private-state-token-issuance=(), join-ad-interest-group=(), browsing-topics=()"
-</IfModule>
